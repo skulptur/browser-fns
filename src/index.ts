@@ -1,1 +1,1 @@
-export { noop } from './lib/noop'
+export { scrollToTop } from './lib/scrollToTop'
